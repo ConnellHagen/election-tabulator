@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+Project1/build/* linguist-vendored
+Project2/build/* linguist-vendored
